@@ -1,0 +1,17 @@
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\bin\Debug\net8.0-windows\HotelReservationsSystem.exe
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\bin\Debug\net8.0-windows\HotelReservationsSystem.deps.json
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\bin\Debug\net8.0-windows\HotelReservationsSystem.runtimeconfig.json
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\bin\Debug\net8.0-windows\HotelReservationsSystem.dll
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\bin\Debug\net8.0-windows\HotelReservationsSystem.pdb
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\obj\Debug\net8.0-windows\HotelReservationsSystem.LoginPage.resources
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\obj\Debug\net8.0-windows\HotelReservationsSystem.Properties.Resources.resources
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\obj\Debug\net8.0-windows\HotelReservationsSystem.csproj.GenerateResource.cache
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\obj\Debug\net8.0-windows\HotelReservationsSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\obj\Debug\net8.0-windows\HotelReservationsSystem.AssemblyInfoInputs.cache
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\obj\Debug\net8.0-windows\HotelReservationsSystem.AssemblyInfo.cs
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\obj\Debug\net8.0-windows\HotelReservationsSystem.csproj.CoreCompileInputs.cache
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\obj\Debug\net8.0-windows\HotelReservationsSystem.dll
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\obj\Debug\net8.0-windows\refint\HotelReservationsSystem.dll
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\obj\Debug\net8.0-windows\HotelReservationsSystem.pdb
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\obj\Debug\net8.0-windows\HotelReservationsSystem.genruntimeconfig.cache
+C:\Users\saadr\source\repos\HotelReservationsSystem\HotelReservationsSystem\obj\Debug\net8.0-windows\ref\HotelReservationsSystem.dll
