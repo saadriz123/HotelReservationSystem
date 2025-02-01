@@ -16,5 +16,12 @@ namespace HotelReservationsSystem
         {
             InitializeComponent();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            ManagerDashboard managerDashboard = new ManagerDashboard();
+            managerDashboard.Show();
+            this.Hide();
+        }
     }
 }

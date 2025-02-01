@@ -45,6 +45,7 @@
             button1.TabIndex = 0;
             button1.Text = "Manage Rooms";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click_1;
             // 
             // button3
             // 
@@ -55,6 +56,7 @@
             button3.TabIndex = 2;
             button3.Text = "View Feedback";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click_1;
             // 
             // button4
             // 
@@ -65,6 +67,7 @@
             button4.TabIndex = 3;
             button4.Text = "View Reports ";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click_1;
             // 
             // button5
             // 
@@ -74,6 +77,7 @@
             button5.TabIndex = 20;
             button5.Text = "Back";
             button5.UseVisualStyleBackColor = true;
+            button5.Click += button5_Click;
             // 
             // button2
             // 
@@ -84,6 +88,7 @@
             button2.TabIndex = 21;
             button2.Text = "manage special offers";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click_1;
             // 
             // ManagerDashboard
             // 

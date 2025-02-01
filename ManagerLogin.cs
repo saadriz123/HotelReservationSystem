@@ -16,23 +16,20 @@ namespace HotelReservationsSystem
         {
             InitializeComponent();
         }
-<<<<<<< HEAD
-=======
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
-
+            ManagerDashboard managerDashboard = new ManagerDashboard();
+            managerDashboard.Show();
+            this.Hide();
         }
 
-        private void label3_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
+            LoginPage loginPage = new LoginPage();
+            loginPage.Show();
+            this.Hide();
 
         }
-
-        private void label3_Click_1(object sender, EventArgs e)
-        {
-
-        }
->>>>>>> c4a1193 (first commit)
     }
 }

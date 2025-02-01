@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
   <ItemGroup>
     <Compile Update="BookRoom.cs">
       <SubType>Form</SubType>
@@ -13,17 +14,6 @@
     <Compile Update="LoginPage.cs">
       <SubType>Form</SubType>
     </Compile>
-<<<<<<< HEAD
-    <Compile Update="ManageReservation.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="ManagerLogin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="Payment.cs">
-      <SubType>Form</SubType>
-    </Compile>
-=======
     <Compile Update="ManagerDashboard.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -51,7 +41,6 @@
     <Compile Update="Reports.cs">
       <SubType>Form</SubType>
     </Compile>
->>>>>>> c4a1193 (first commit)
     <Compile Update="ReservationForCustomer.cs">
       <SubType>Form</SubType>
     </Compile>

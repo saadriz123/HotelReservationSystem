@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\managespecialoffers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managespecialoffers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\managespecialoffers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managespecialoffers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managerdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageSpecialOffers.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManageSpecialOffers.cs",
+              "RelativeDocumentMoniker": "ManageSpecialOffers.cs",
+              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManageSpecialOffers.cs",
+              "RelativeToolTip": "ManageSpecialOffers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:42:42.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageSpecialOffers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManageSpecialOffers.cs",
+              "RelativeDocumentMoniker": "ManageSpecialOffers.cs",
+              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManageSpecialOffers.cs [Design]",
+              "RelativeToolTip": "ManageSpecialOffers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:42:39.285Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerDashboard.cs",
+              "RelativeDocumentMoniker": "ManagerDashboard.cs",
+              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerDashboard.cs",
+              "RelativeToolTip": "ManagerDashboard.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:36:14.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManagerDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerDashboard.cs",
+              "RelativeDocumentMoniker": "ManagerDashboard.cs",
+              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerDashboard.cs [Design]",
+              "RelativeToolTip": "ManagerDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T16:35:32.644Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -26,5 +26,12 @@ namespace HotelReservationsSystem
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            LoginPage loginPage = new LoginPage();
+            loginPage.Show();
+            this.Hide();
+        }
     }
 }

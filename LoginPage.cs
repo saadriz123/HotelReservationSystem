@@ -24,12 +24,16 @@ namespace HotelReservationsSystem
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-
+            ManagerLogin managerLogin = new ManagerLogin();
+            managerLogin.Show();
+            this.Hide();
         }
 
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-
+            CustomerLogin customerLogin = new CustomerLogin();
+            customerLogin.Show();
+            this.Hide();
         }
     }
 }
