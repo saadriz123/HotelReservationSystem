@@ -21,5 +21,12 @@ namespace HotelReservationsSystem
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ReservationForCustomer reservationForCustomer = new ReservationForCustomer();
+            reservationForCustomer.Show();
+            this.Hide();
+        }
     }
 }

@@ -39,25 +39,25 @@
             dataGridView1 = new DataGridView();
             textBox3 = new TextBox();
             groupBox1 = new GroupBox();
-            label6 = new Label();
-            label7 = new Label();
-            label9 = new Label();
-            label10 = new Label();
-            label11 = new Label();
-            label12 = new Label();
-            dateTimePicker1 = new DateTimePicker();
-            dateTimePicker2 = new DateTimePicker();
-            numericUpDown1 = new NumericUpDown();
-            numericUpDown2 = new NumericUpDown();
             comboBox1 = new ComboBox();
+            numericUpDown2 = new NumericUpDown();
+            numericUpDown1 = new NumericUpDown();
+            dateTimePicker2 = new DateTimePicker();
+            dateTimePicker1 = new DateTimePicker();
+            label12 = new Label();
+            label11 = new Label();
+            label10 = new Label();
+            label9 = new Label();
+            label7 = new Label();
+            label6 = new Label();
             button2 = new Button();
             button3 = new Button();
             button4 = new Button();
             button1 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             groupBox1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDown2).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
             SuspendLayout();
             // 
             // label1
@@ -156,43 +156,50 @@
             groupBox1.TabIndex = 11;
             groupBox1.TabStop = false;
             // 
-            // label6
+            // comboBox1
             // 
-            label6.AutoSize = true;
-            label6.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label6.Location = new Point(172, 9);
-            label6.Name = "label6";
-            label6.Size = new Size(119, 20);
-            label6.TabIndex = 12;
-            label6.Text = "Booking Details";
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Location = new Point(211, 175);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new Size(151, 28);
+            comboBox1.TabIndex = 21;
             // 
-            // label7
+            // numericUpDown2
             // 
-            label7.AutoSize = true;
-            label7.Location = new Point(59, 48);
-            label7.Name = "label7";
-            label7.Size = new Size(102, 20);
-            label7.TabIndex = 12;
-            label7.Text = "Check-in Date";
+            numericUpDown2.Location = new Point(211, 142);
+            numericUpDown2.Name = "numericUpDown2";
+            numericUpDown2.Size = new Size(150, 27);
+            numericUpDown2.TabIndex = 20;
             // 
-            // label9
+            // numericUpDown1
             // 
-            label9.AutoSize = true;
-            label9.Location = new Point(59, 175);
-            label9.Name = "label9";
-            label9.Size = new Size(84, 20);
-            label9.TabIndex = 14;
-            label9.Text = "Room Type";
+            numericUpDown1.Location = new Point(211, 109);
+            numericUpDown1.Name = "numericUpDown1";
+            numericUpDown1.Size = new Size(150, 27);
+            numericUpDown1.TabIndex = 19;
             // 
-            // label10
+            // dateTimePicker2
             // 
-            label10.AutoSize = true;
-            label10.Location = new Point(59, 144);
-            label10.Name = "label10";
-            label10.Size = new Size(140, 20);
-            label10.TabIndex = 15;
-            label10.Text = "Number of Children";
-            label10.Click += label10_Click;
+            dateTimePicker2.Location = new Point(211, 76);
+            dateTimePicker2.Name = "dateTimePicker2";
+            dateTimePicker2.Size = new Size(250, 27);
+            dateTimePicker2.TabIndex = 18;
+            // 
+            // dateTimePicker1
+            // 
+            dateTimePicker1.Location = new Point(211, 43);
+            dateTimePicker1.Name = "dateTimePicker1";
+            dateTimePicker1.Size = new Size(250, 27);
+            dateTimePicker1.TabIndex = 12;
+            // 
+            // label12
+            // 
+            label12.AutoSize = true;
+            label12.Location = new Point(59, 77);
+            label12.Name = "label12";
+            label12.Size = new Size(112, 20);
+            label12.TabIndex = 17;
+            label12.Text = "Check-out Date";
             // 
             // label11
             // 
@@ -204,50 +211,43 @@
             label11.Text = "Number of Adults";
             label11.Click += label11_Click;
             // 
-            // label12
+            // label10
             // 
-            label12.AutoSize = true;
-            label12.Location = new Point(59, 77);
-            label12.Name = "label12";
-            label12.Size = new Size(112, 20);
-            label12.TabIndex = 17;
-            label12.Text = "Check-out Date";
+            label10.AutoSize = true;
+            label10.Location = new Point(59, 144);
+            label10.Name = "label10";
+            label10.Size = new Size(140, 20);
+            label10.TabIndex = 15;
+            label10.Text = "Number of Children";
+            label10.Click += label10_Click;
             // 
-            // dateTimePicker1
+            // label9
             // 
-            dateTimePicker1.Location = new Point(211, 43);
-            dateTimePicker1.Name = "dateTimePicker1";
-            dateTimePicker1.Size = new Size(250, 27);
-            dateTimePicker1.TabIndex = 12;
+            label9.AutoSize = true;
+            label9.Location = new Point(59, 175);
+            label9.Name = "label9";
+            label9.Size = new Size(84, 20);
+            label9.TabIndex = 14;
+            label9.Text = "Room Type";
             // 
-            // dateTimePicker2
+            // label7
             // 
-            dateTimePicker2.Location = new Point(211, 76);
-            dateTimePicker2.Name = "dateTimePicker2";
-            dateTimePicker2.Size = new Size(250, 27);
-            dateTimePicker2.TabIndex = 18;
+            label7.AutoSize = true;
+            label7.Location = new Point(59, 48);
+            label7.Name = "label7";
+            label7.Size = new Size(102, 20);
+            label7.TabIndex = 12;
+            label7.Text = "Check-in Date";
             // 
-            // numericUpDown1
+            // label6
             // 
-            numericUpDown1.Location = new Point(211, 109);
-            numericUpDown1.Name = "numericUpDown1";
-            numericUpDown1.Size = new Size(150, 27);
-            numericUpDown1.TabIndex = 19;
-            // 
-            // numericUpDown2
-            // 
-            numericUpDown2.Location = new Point(211, 142);
-            numericUpDown2.Name = "numericUpDown2";
-            numericUpDown2.Size = new Size(150, 27);
-            numericUpDown2.TabIndex = 20;
-            // 
-            // comboBox1
-            // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(211, 175);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(151, 28);
-            comboBox1.TabIndex = 21;
+            label6.AutoSize = true;
+            label6.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label6.Location = new Point(172, 9);
+            label6.Name = "label6";
+            label6.Size = new Size(119, 20);
+            label6.TabIndex = 12;
+            label6.Text = "Booking Details";
             // 
             // button2
             // 
@@ -287,6 +287,7 @@
             button1.TabIndex = 15;
             button1.Text = "Back";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // BookRoom
             // 
@@ -316,8 +317,8 @@
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
             ((System.ComponentModel.ISupportInitialize)numericUpDown2).EndInit();
+            ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }

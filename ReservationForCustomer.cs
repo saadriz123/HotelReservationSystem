@@ -21,5 +21,33 @@ namespace HotelReservationsSystem
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            CustomerLogin customerLogin = new CustomerLogin();
+            customerLogin.Show();
+            this.Hide();
+        }
+
+        private void sumbit_Click(object sender, EventArgs e)
+        {
+            BookRoom room = new BookRoom();
+            room.Show();
+            this.Hide();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ManageReservation manageReservation = new ManageReservation();
+            manageReservation.Show();
+            this.Hide();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Feedback feedback = new Feedback();
+            feedback.Show();
+            this.Hide();
+        }
     }
 }

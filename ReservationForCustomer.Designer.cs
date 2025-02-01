@@ -44,6 +44,7 @@
             button2.TabIndex = 1;
             button2.Text = "Manage Reservations";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // sumbit
             // 
@@ -54,6 +55,7 @@
             sumbit.TabIndex = 2;
             sumbit.Text = "Book Rooms";
             sumbit.UseVisualStyleBackColor = true;
+            sumbit.Click += sumbit_Click;
             // 
             // button3
             // 
@@ -64,6 +66,7 @@
             button3.TabIndex = 3;
             button3.Text = "Feedbcak";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click;
             // 
             // button1
             // 
@@ -73,6 +76,7 @@
             button1.TabIndex = 4;
             button1.Text = "Back";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // ReservationForCustomer
             // 
