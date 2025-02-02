@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\managermanagerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managermanagerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\managermanagerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managermanagerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\managereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\managermanagerooms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managermanagerooms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\managereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\reservationforcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:reservationforcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\reservationforcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:reservationforcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\customerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:customerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,90 +38,63 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ManageReservation.cs",
-              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManageReservation.cs",
-              "RelativeDocumentMoniker": "ManageReservation.cs",
-              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManageReservation.cs",
-              "RelativeToolTip": "ManageReservation.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBUAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ManagerManageRooms.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerManageRooms.Designer.cs",
+              "RelativeDocumentMoniker": "ManagerManageRooms.Designer.cs",
+              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerManageRooms.Designer.cs",
+              "RelativeToolTip": "ManagerManageRooms.Designer.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAMwDoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:55:07.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T21:23:46.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ManageReservation.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManageReservation.cs",
-              "RelativeDocumentMoniker": "ManageReservation.cs",
-              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManageReservation.cs [Design]",
-              "RelativeToolTip": "ManageReservation.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "ManagerManageRooms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerManageRooms.cs",
+              "RelativeDocumentMoniker": "ManagerManageRooms.cs",
+              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerManageRooms.cs [Design]",
+              "RelativeToolTip": "ManagerManageRooms.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:55:04.225Z",
+              "WhenOpened": "2025-02-02T15:48:11.91Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Feedback.cs",
-              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\Feedback.cs",
-              "RelativeDocumentMoniker": "Feedback.cs",
-              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\Feedback.cs",
-              "RelativeToolTip": "Feedback.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAlwB4AAAAFAAAAAAAAAA==",
+              "Title": "ManagerManageRooms.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerManageRooms.cs",
+              "RelativeDocumentMoniker": "ManagerManageRooms.cs",
+              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerManageRooms.cs",
+              "RelativeToolTip": "ManagerManageRooms.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwD0AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:54:47.366Z",
+              "WhenOpened": "2025-02-02T12:50:55.132Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Feedback.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\Feedback.cs",
-              "RelativeDocumentMoniker": "Feedback.cs",
-              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\Feedback.cs [Design]",
-              "RelativeToolTip": "Feedback.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:54:43.564Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ReservationForCustomer.cs",
-              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ReservationForCustomer.cs",
-              "RelativeDocumentMoniker": "ReservationForCustomer.cs",
-              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ReservationForCustomer.cs",
-              "RelativeToolTip": "ReservationForCustomer.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAQwC8AAAAMAAAAAAAAAA==",
+              "Title": "BookRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\BookRoom.cs",
+              "RelativeDocumentMoniker": "BookRoom.cs",
+              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\BookRoom.cs [Design]",
+              "RelativeToolTip": "BookRoom.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:49:55.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T12:38:54.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ReservationForCustomer.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ReservationForCustomer.cs",
-              "RelativeDocumentMoniker": "ReservationForCustomer.cs",
-              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ReservationForCustomer.cs [Design]",
-              "RelativeToolTip": "ReservationForCustomer.cs [Design]",
+              "DocumentIndex": 3,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\Room.cs",
+              "RelativeDocumentMoniker": "Room.cs",
+              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\Room.cs",
+              "RelativeToolTip": "Room.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:47:34.866Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomerLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\CustomerLogin.cs",
-              "RelativeDocumentMoniker": "CustomerLogin.cs",
-              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\CustomerLogin.cs [Design]",
-              "RelativeToolTip": "CustomerLogin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-01T16:46:41.094Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-02T12:38:16.077Z"
             }
           ]
         }

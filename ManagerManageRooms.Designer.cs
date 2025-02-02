@@ -35,9 +35,7 @@
             textBox1 = new TextBox();
             label2 = new Label();
             textBox2 = new TextBox();
-            backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             button1 = new Button();
-            button3 = new Button();
             button4 = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
@@ -59,7 +57,7 @@
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.Size = new Size(301, 401);
-            dataGridView1.TabIndex = 21;
+            dataGridView1.TabIndex = 31;
             // 
             // label1
             // 
@@ -103,15 +101,7 @@
             button1.TabIndex = 28;
             button1.Text = "Add Room";
             button1.UseVisualStyleBackColor = true;
-            // 
-            // button3
-            // 
-            button3.Location = new Point(151, 286);
-            button3.Name = "button3";
-            button3.Size = new Size(94, 29);
-            button3.TabIndex = 29;
-            button3.Text = "Edit Room";
-            button3.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // button4
             // 
@@ -121,6 +111,7 @@
             button4.TabIndex = 30;
             button4.Text = "Delete Room ";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // ManagerManageRooms
             // 
@@ -130,7 +121,6 @@
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
             Controls.Add(button4);
-            Controls.Add(button3);
             Controls.Add(button1);
             Controls.Add(textBox2);
             Controls.Add(label2);
@@ -154,7 +144,6 @@
         private TextBox textBox1;
         private Label label2;
         private TextBox textBox2;
-        private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private Button button1;
         private Button button3;
         private Button button4;

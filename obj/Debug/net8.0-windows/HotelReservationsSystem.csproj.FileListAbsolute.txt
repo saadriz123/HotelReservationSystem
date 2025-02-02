@@ -46,3 +46,7 @@ C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\refint\HotelRe
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.pdb
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.genruntimeconfig.cache
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\ref\HotelReservationsSystem.dll
+C:\Users\santh\OneDrive\Desktop\pullstop\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\santh\OneDrive\Desktop\pullstop\bin\Debug\net8.0-windows\MySql.Data.xml
+C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.csproj.AssemblyReference.cache
+C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelRes.B6200272.Up2Date
