@@ -1,30 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\user\\onedrive\\desktop\\pull\\logincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:logincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\user\\onedrive\\desktop\\pull\\loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:loginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|C:\\Users\\user\\OneDrive\\Desktop\\pull\\customerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:customerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|C:\\Users\\user\\OneDrive\\Desktop\\pull\\managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|C:\\Users\\user\\OneDrive\\Desktop\\pull\\managereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managereservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|C:\\Users\\user\\OneDrive\\Desktop\\pull\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\user\\onedrive\\desktop\\pull\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\managermanagerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managermanagerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\santh\\onedrive\\desktop\\pullstop\\managermanagerooms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\user\\onedrive\\desktop\\pull\\managermanagerooms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managermanagerooms.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\managermanagerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|C:\\Users\\user\\OneDrive\\Desktop\\pull\\bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:bookroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|C:\\Users\\user\\OneDrive\\Desktop\\pull\\managermanagerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managermanagerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\user\\onedrive\\desktop\\pull\\managermanagerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:managermanagerooms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|c:\\users\\user\\onedrive\\desktop\\pull\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A43653D-5598-4BEA-B54F-463D32A233DD}|HotelReservationsSystem.csproj|solutionrelative:room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,87 +58,146 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\Person.cs",
-              "RelativeDocumentMoniker": "Person.cs",
-              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\Person.cs",
-              "RelativeToolTip": "Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "LoginCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\LoginCustomer.cs",
+              "RelativeDocumentMoniker": "LoginCustomer.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\LoginCustomer.cs",
+              "RelativeToolTip": "LoginCustomer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwBgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T12:23:49.039Z",
+              "WhenOpened": "2025-02-03T09:46:52.843Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ManagerManageRooms.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerManageRooms.Designer.cs",
-              "RelativeDocumentMoniker": "ManagerManageRooms.Designer.cs",
-              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerManageRooms.Designer.cs",
-              "RelativeToolTip": "ManagerManageRooms.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T21:23:46.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ManagerManageRooms.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerManageRooms.cs",
-              "RelativeDocumentMoniker": "ManagerManageRooms.cs",
-              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerManageRooms.cs [Design]",
-              "RelativeToolTip": "ManagerManageRooms.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T15:48:11.91Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ManagerManageRooms.cs",
-              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerManageRooms.cs",
-              "RelativeDocumentMoniker": "ManagerManageRooms.cs",
-              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\ManagerManageRooms.cs",
-              "RelativeToolTip": "ManagerManageRooms.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T12:50:55.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookRoom.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\BookRoom.cs",
-              "RelativeDocumentMoniker": "BookRoom.cs",
-              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\BookRoom.cs [Design]",
-              "RelativeToolTip": "BookRoom.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T12:38:54.823Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LoginManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\LoginManager.cs",
+              "RelativeDocumentMoniker": "LoginManager.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\LoginManager.cs",
+              "RelativeToolTip": "LoginManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:16:24.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\CustomerLogin.cs",
+              "RelativeDocumentMoniker": "CustomerLogin.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\CustomerLogin.cs [Design]",
+              "RelativeToolTip": "CustomerLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:10:33.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\ManagerLogin.cs",
+              "RelativeDocumentMoniker": "ManagerLogin.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\ManagerLogin.cs [Design]",
+              "RelativeToolTip": "ManagerLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:13:15.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageReservation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\ManageReservation.cs",
+              "RelativeDocumentMoniker": "ManageReservation.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\ManageReservation.cs [Design]",
+              "RelativeToolTip": "ManageReservation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:10:26.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\LoginPage.cs",
+              "RelativeDocumentMoniker": "LoginPage.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\LoginPage.cs [Design]",
+              "RelativeToolTip": "LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:10:02.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T12:23:49.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManagerManageRooms.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\ManagerManageRooms.Designer.cs",
+              "RelativeDocumentMoniker": "ManagerManageRooms.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\ManagerManageRooms.Designer.cs",
+              "RelativeToolTip": "ManagerManageRooms.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:23:46.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManagerManageRooms.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\ManagerManageRooms.cs",
+              "RelativeDocumentMoniker": "ManagerManageRooms.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\ManagerManageRooms.cs [Design]",
+              "RelativeToolTip": "ManagerManageRooms.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T15:48:11.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ManagerManageRooms.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\ManagerManageRooms.cs",
+              "RelativeDocumentMoniker": "ManagerManageRooms.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\ManagerManageRooms.cs",
+              "RelativeToolTip": "ManagerManageRooms.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:50:55.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\BookRoom.cs",
+              "RelativeDocumentMoniker": "BookRoom.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\BookRoom.cs [Design]",
+              "RelativeToolTip": "BookRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T12:38:54.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Room.cs",
-              "DocumentMoniker": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\Room.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\Room.cs",
               "RelativeDocumentMoniker": "Room.cs",
-              "ToolTip": "C:\\Users\\santh\\OneDrive\\Desktop\\pullstop\\Room.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive\\Desktop\\pull\\Room.cs",
               "RelativeToolTip": "Room.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwDEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T12:38:16.077Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T12:38:16.077Z"
             }
           ]
         }

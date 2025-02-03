@@ -36,9 +36,22 @@ namespace HotelReservationsSystem
 
         private void button2_Click(object sender, EventArgs e)
         {
-            ReservationForCustomer reservationForCustomer = new ReservationForCustomer();
-            reservationForCustomer.Show();
-            this.Hide();
+
+            string username = textBox1.Text;
+            string password = textBox2.Text;
+
+            LoginCustomer logincustomer = new LoginCustomer(username, password);
+
+            if (logincustomer.ValidateLogin())
+            {
+                ReservationForCustomer reservation1 = new ReservationForCustomer();
+                reservation1.Show();
+                this.Hide();
+            }
+            else
+            {
+                MessageBox.Show("Invalid login!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
     }
 }

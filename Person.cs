@@ -25,8 +25,8 @@ namespace HotelReservationsSystem
 
         public Person(string username, string password)
         {
-            username = username;
-            password = password;
+            this.username = username;
+            this.password = password;
         }
 
         public virtual void Login()
