@@ -50,7 +50,6 @@
             label9 = new Label();
             label7 = new Label();
             label6 = new Label();
-            button2 = new Button();
             button3 = new Button();
             button4 = new Button();
             button1 = new Button();
@@ -249,20 +248,10 @@
             label6.TabIndex = 12;
             label6.Text = "Booking Details";
             // 
-            // button2
-            // 
-            button2.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button2.Location = new Point(145, 495);
-            button2.Name = "button2";
-            button2.Size = new Size(143, 29);
-            button2.TabIndex = 12;
-            button2.Text = "Check Availability";
-            button2.UseVisualStyleBackColor = true;
-            // 
             // button3
             // 
             button3.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button3.Location = new Point(294, 495);
+            button3.Location = new Point(180, 495);
             button3.Name = "button3";
             button3.Size = new Size(85, 29);
             button3.TabIndex = 13;
@@ -278,6 +267,7 @@
             button4.TabIndex = 14;
             button4.Text = "Reserve Now";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
             // 
             // button1
             // 
@@ -299,7 +289,6 @@
             Controls.Add(button1);
             Controls.Add(button4);
             Controls.Add(button3);
-            Controls.Add(button2);
             Controls.Add(groupBox1);
             Controls.Add(textBox3);
             Controls.Add(dataGridView1);
@@ -345,7 +334,6 @@
         private DateTimePicker dateTimePicker1;
         private ComboBox comboBox1;
         private NumericUpDown numericUpDown2;
-        private Button button2;
         private Button button3;
         private Button button4;
         private Button button1;

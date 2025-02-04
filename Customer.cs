@@ -14,15 +14,22 @@ namespace HotelReservationsSystem
 
         public string name
         {
-            get; set;
+            get { return Name; }
+            set { Name = value; }
         }
-         public string contactnumber
+         public int contactnumber
          {
-            get; set;
+            get { return ContactNumber;}
+            set { ContactNumber = value; }
          }
-        private string id
+        public string id
         {
-            get; set;
+            get { return ID;}
+            set { ID = value; }
+        }
+        public Customer(string name)
+        {
+            this.name = name;
         }
         public Customer(string name, int contactnumber,string id) 
         {
