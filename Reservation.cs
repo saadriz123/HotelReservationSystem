@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -56,14 +57,17 @@ namespace HotelReservationsSystem
         }
         public void AddReservation()
         {
-            using ( MySqlConnection connection3 = new MySqlConnection("Server=localhost;Database=hotelreservationsystem;User ID=root;Password=;"))
+            string connection3 = "Server=localhost;Database=hotelreservationsystem;User ID=root;Password=;";
+            using ( MySqlConnection sqlconnection = new MySqlConnection(connection3))
             {
-                connection3.Open();
+                sqlconnection.Open();
+                string Query01 = "INSERT INTO reservation (fullname, contactnumber, id, checkindate, checkoutdate, numberofadults, numberofchildren, roomtype) " +
+                             "VALUES (@fullname, @contactnumber, @id, @checkindate, @checkoutdate, @numberofadults, @numberofchildren, @roomtype)";
 
-                using (MySqlCommand command3 = new MySqlCommand("INSERT INTO reservation (fullname, conttactnumber, id, checkindate, checkoutdate, numberofadults, numberofchildren, roomtype) VALUES (@fullname, @contactnumber, @id, @checkindate, @checkoutdate, @numberofadults,@numberofchildren, @roomtype"))
+                using (MySqlCommand command3 = new MySqlCommand(Query01,sqlconnection))
                 {
                     command3.Parameters.AddWithValue("@fullname",name);
-                    command3.Parameters.AddWithValue("@contactnumber",contactnumber);
+                    command3.Parameters.AddWithValue("@contactnumber",contactnumber.ToString());
                     command3.Parameters.AddWithValue("@id", id);
                     command3.Parameters.AddWithValue("@checkindate",checkindate);
                     command3.Parameters.AddWithValue("@checkoutdate",checkoutdate);
@@ -71,6 +75,9 @@ namespace HotelReservationsSystem
                     command3.Parameters.AddWithValue("numberofchildren",numberofChildren);
                     command3.Parameters.AddWithValue("@roomtype",RoomType);
                     command3.ExecuteNonQuery();
+
+
+                    
 
                 }
             }

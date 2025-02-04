@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace HotelReservationsSystem
 {
-    public partial class Messege : Form
+    public partial class MessegeFLS : Form
     {
-        public Messege()
+        public MessegeFLS()
         {
             InitializeComponent();
         }

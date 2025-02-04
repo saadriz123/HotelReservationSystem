@@ -39,7 +39,6 @@
             dataGridView1 = new DataGridView();
             textBox3 = new TextBox();
             groupBox1 = new GroupBox();
-            comboBox1 = new ComboBox();
             numericUpDown2 = new NumericUpDown();
             numericUpDown1 = new NumericUpDown();
             dateTimePicker2 = new DateTimePicker();
@@ -53,6 +52,7 @@
             button3 = new Button();
             button4 = new Button();
             button1 = new Button();
+            textBox4 = new TextBox();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)numericUpDown2).BeginInit();
@@ -122,11 +122,12 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(731, 88);
+            dataGridView1.Location = new Point(607, 101);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(218, 257);
+            dataGridView1.Size = new Size(315, 136);
             dataGridView1.TabIndex = 9;
+            dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
             // textBox3
             // 
@@ -138,7 +139,7 @@
             // groupBox1
             // 
             groupBox1.BackColor = SystemColors.ControlLight;
-            groupBox1.Controls.Add(comboBox1);
+            groupBox1.Controls.Add(textBox4);
             groupBox1.Controls.Add(numericUpDown2);
             groupBox1.Controls.Add(numericUpDown1);
             groupBox1.Controls.Add(dateTimePicker2);
@@ -154,14 +155,6 @@
             groupBox1.Size = new Size(501, 224);
             groupBox1.TabIndex = 11;
             groupBox1.TabStop = false;
-            // 
-            // comboBox1
-            // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(211, 175);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(151, 28);
-            comboBox1.TabIndex = 21;
             // 
             // numericUpDown2
             // 
@@ -279,6 +272,13 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
+            // textBox4
+            // 
+            textBox4.Location = new Point(213, 175);
+            textBox4.Name = "textBox4";
+            textBox4.Size = new Size(125, 27);
+            textBox4.TabIndex = 21;
+            // 
             // BookRoom
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -332,10 +332,10 @@
         private NumericUpDown numericUpDown1;
         private DateTimePicker dateTimePicker2;
         private DateTimePicker dateTimePicker1;
-        private ComboBox comboBox1;
         private NumericUpDown numericUpDown2;
         private Button button3;
         private Button button4;
         private Button button1;
+        private TextBox textBox4;
     }
 }

@@ -1,6 +1,6 @@
 ﻿namespace HotelReservationsSystem
 {
-    partial class Messege
+    partial class MessegeFLS
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Messege));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MessegeFLS));
             SuspendLayout();
             // 
             // Messege

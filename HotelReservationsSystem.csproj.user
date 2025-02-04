@@ -32,7 +32,7 @@
     <Compile Update="ManageSpecialOffers.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Messege.cs">
+    <Compile Update="MessegeFLS.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Payment.cs">

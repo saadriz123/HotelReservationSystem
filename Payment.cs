@@ -16,5 +16,20 @@ namespace HotelReservationsSystem
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessegeFLS Message1 = new MessegeFLS();
+            Message1.Show();
+            this.Hide();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            BookRoom booking = new BookRoom();
+            booking.Show();
+            this.Hide();
+        }
     }
 }

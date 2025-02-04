@@ -30,7 +30,6 @@ C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservati
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.ManagerLogin.resources
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.ManagerManageRooms.resources
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.ManageSpecialOffers.resources
-C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.Messege.resources
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.Payment.resources
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.Properties.Resources.resources
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.Reports.resources
@@ -85,3 +84,4 @@ C:\Users\user\OneDrive\Desktop\pull\obj\Debug\net8.0-windows\refint\HotelReserva
 C:\Users\user\OneDrive\Desktop\pull\obj\Debug\net8.0-windows\HotelReservationsSystem.pdb
 C:\Users\user\OneDrive\Desktop\pull\obj\Debug\net8.0-windows\HotelReservationsSystem.genruntimeconfig.cache
 C:\Users\user\OneDrive\Desktop\pull\obj\Debug\net8.0-windows\ref\HotelReservationsSystem.dll
+C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.MessegeFLS.resources
