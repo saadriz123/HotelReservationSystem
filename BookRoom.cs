@@ -48,6 +48,30 @@ namespace HotelReservationsSystem
 
         private void button4_Click(object sender, EventArgs e)
         {
+            if (string.IsNullOrEmpty(textBox1.Text))
+            {
+                MessageBox.Show("Please enter a name.");
+                return;
+            }
+
+            if (string.IsNullOrEmpty(textBox2.Text) || !int.TryParse(textBox2.Text, out _))
+            {
+                MessageBox.Show("Please enter a valid contact number.");
+                return;
+            }
+
+            if (string.IsNullOrEmpty(textBox3.Text))
+            {
+                MessageBox.Show("Please enter an ID.");
+                return;
+            }
+
+            if (string.IsNullOrEmpty(textBox4.Text))
+            {
+                MessageBox.Show("Please enter a room type.");
+                return;
+            }
+
             string name = textBox1.Text;
             int contactnumber = int.Parse(textBox2.Text);
             string id = textBox3.Text;

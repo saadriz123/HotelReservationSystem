@@ -33,13 +33,12 @@
             button3 = new Button();
             button4 = new Button();
             button5 = new Button();
-            button2 = new Button();
             SuspendLayout();
             // 
             // button1
             // 
             button1.Font = new Font("Segoe UI", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(309, 74);
+            button1.Location = new Point(305, 119);
             button1.Name = "button1";
             button1.Size = new Size(165, 52);
             button1.TabIndex = 0;
@@ -50,7 +49,7 @@
             // button3
             // 
             button3.Font = new Font("Segoe UI", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button3.Location = new Point(309, 143);
+            button3.Location = new Point(305, 188);
             button3.Name = "button3";
             button3.Size = new Size(165, 52);
             button3.TabIndex = 2;
@@ -61,7 +60,7 @@
             // button4
             // 
             button4.Font = new Font("Segoe UI", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button4.Location = new Point(309, 210);
+            button4.Location = new Point(305, 255);
             button4.Name = "button4";
             button4.Size = new Size(165, 52);
             button4.TabIndex = 3;
@@ -79,17 +78,6 @@
             button5.UseVisualStyleBackColor = true;
             button5.Click += button5_Click;
             // 
-            // button2
-            // 
-            button2.Font = new Font("Segoe UI", 10.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button2.Location = new Point(309, 278);
-            button2.Name = "button2";
-            button2.Size = new Size(165, 59);
-            button2.TabIndex = 21;
-            button2.Text = "manage special offers";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click_1;
-            // 
             // ManagerDashboard
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -97,7 +85,6 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(800, 450);
-            Controls.Add(button2);
             Controls.Add(button5);
             Controls.Add(button4);
             Controls.Add(button3);
@@ -114,6 +101,5 @@
         private Button button3;
         private Button button4;
         private Button button5;
-        private Button button2;
     }
 }

@@ -49,9 +49,7 @@ namespace HotelReservationsSystem
 
         private void button2_Click_1(object sender, EventArgs e)
         {
-            ManageSpecialOffers manageSpecialOffers = new ManageSpecialOffers();
-            manageSpecialOffers.Show();
-            this.Hide();
+
         }
     }
 }

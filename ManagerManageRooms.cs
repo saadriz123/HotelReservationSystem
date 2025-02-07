@@ -19,8 +19,8 @@ namespace HotelReservationsSystem
         private string connection = "Server=localhost;Database=hotelreservationsystem;User ID=root;Password=;";
         public ManagerManageRooms()
         {
-           InitializeComponent();
-           LoadRoomsToGrid();
+            InitializeComponent();
+            LoadRoomsToGrid();
         }
         private void button2_Click(object sender, EventArgs e)
         {
@@ -31,6 +31,10 @@ namespace HotelReservationsSystem
 
         private void button1_Click(object sender, EventArgs e)
         {
+            if (!ValidateFormFields())
+            {
+                return;
+            }
             string type = textBox1.Text;
             decimal price = decimal.Parse(textBox2.Text);
             bool availability = true;
@@ -74,17 +78,38 @@ namespace HotelReservationsSystem
         private void DeleteRoom(string type, decimal price)
         {
             string sqlquery = "DELETE FROM rooms WHERE Type = @Type AND Price = @Price";
-            using (MySqlConnection connection2 = new MySqlConnection (connection))
-            { 
+            using (MySqlConnection connection2 = new MySqlConnection(connection))
+            {
                 connection2.Open();
-                using (MySqlCommand command2 = new MySqlCommand(sqlquery, connection2)) 
+                using (MySqlCommand command2 = new MySqlCommand(sqlquery, connection2))
                 {
                     command2.Parameters.AddWithValue("Type", type);
-                    command2.Parameters.AddWithValue("Price",price);
+                    command2.Parameters.AddWithValue("Price", price);
                     command2.ExecuteNonQuery();
                 }
             }
 
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+        private bool ValidateFormFields()
+        {
+            if (string.IsNullOrEmpty(textBox1.Text))
+            {
+                MessageBox.Show("Please enter a room type.");
+                return false;
+            }
+
+            if (string.IsNullOrEmpty(textBox2.Text) || !decimal.TryParse(textBox2.Text, out _))
+            {
+                MessageBox.Show("Please enter a valid price.");
+                return false;
+            }
+
+            return true;
         }
     }
 }

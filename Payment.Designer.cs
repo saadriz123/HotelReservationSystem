@@ -38,12 +38,12 @@
             label4 = new Label();
             label5 = new Label();
             label6 = new Label();
-            comboBox1 = new ComboBox();
             maskedTextBox1 = new MaskedTextBox();
             label7 = new Label();
             checkBox1 = new CheckBox();
             button1 = new Button();
             button2 = new Button();
+            textBox3 = new TextBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -68,7 +68,7 @@
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(253, 140);
+            textBox2.Location = new Point(253, 219);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(281, 27);
             textBox2.TabIndex = 6;
@@ -93,7 +93,7 @@
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(253, 208);
+            textBox1.Location = new Point(253, 140);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(281, 27);
             textBox1.TabIndex = 9;
@@ -124,17 +124,9 @@
             label6.TabIndex = 12;
             label6.Text = "CVC";
             // 
-            // comboBox1
-            // 
-            comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(253, 282);
-            comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(151, 28);
-            comboBox1.TabIndex = 13;
-            // 
             // maskedTextBox1
             // 
-            maskedTextBox1.Location = new Point(253, 345);
+            maskedTextBox1.Location = new Point(253, 354);
             maskedTextBox1.Name = "maskedTextBox1";
             maskedTextBox1.Size = new Size(125, 27);
             maskedTextBox1.TabIndex = 14;
@@ -157,6 +149,7 @@
             checkBox1.Size = new Size(18, 17);
             checkBox1.TabIndex = 16;
             checkBox1.UseVisualStyleBackColor = true;
+            checkBox1.CheckedChanged += checkBox1_CheckedChanged;
             // 
             // button1
             // 
@@ -179,6 +172,13 @@
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
+            // textBox3
+            // 
+            textBox3.Location = new Point(253, 282);
+            textBox3.Name = "textBox3";
+            textBox3.Size = new Size(281, 27);
+            textBox3.TabIndex = 19;
+            // 
             // Payment
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
@@ -186,12 +186,12 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(798, 499);
+            Controls.Add(textBox3);
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(checkBox1);
             Controls.Add(label7);
             Controls.Add(maskedTextBox1);
-            Controls.Add(comboBox1);
             Controls.Add(label6);
             Controls.Add(label5);
             Controls.Add(label4);
@@ -220,11 +220,11 @@
         private Label label4;
         private Label label5;
         private Label label6;
-        private ComboBox comboBox1;
         private MaskedTextBox maskedTextBox1;
         private Label label7;
         private CheckBox checkBox1;
         private Button button1;
         private Button button2;
+        private TextBox textBox3;
     }
 }

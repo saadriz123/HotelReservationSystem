@@ -29,9 +29,6 @@
     <Compile Update="ManagerManageRooms.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="ManageSpecialOffers.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="MessegeFLS.cs">
       <SubType>Form</SubType>
     </Compile>

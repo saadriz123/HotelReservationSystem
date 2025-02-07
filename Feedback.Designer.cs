@@ -54,11 +54,11 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(188, 116);
+            label1.Location = new Point(173, 119);
             label1.Name = "label1";
-            label1.Size = new Size(68, 20);
+            label1.Size = new Size(84, 20);
             label1.TabIndex = 4;
-            label1.Text = "Room ID";
+            label1.Text = "Room Type";
             label1.Click += label1_Click;
             // 
             // label3
@@ -80,6 +80,7 @@
             // numericUpDown1
             // 
             numericUpDown1.Location = new Point(273, 153);
+            numericUpDown1.Maximum = new decimal(new int[] { 5, 0, 0, 0 });
             numericUpDown1.Name = "numericUpDown1";
             numericUpDown1.Size = new Size(95, 27);
             numericUpDown1.TabIndex = 7;
@@ -110,6 +111,7 @@
             button1.TabIndex = 18;
             button1.Text = "Submit";
             button1.UseVisualStyleBackColor = false;
+            button1.Click += button1_Click;
             // 
             // button2
             // 

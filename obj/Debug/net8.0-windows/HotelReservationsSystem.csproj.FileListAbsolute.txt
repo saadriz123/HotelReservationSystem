@@ -29,7 +29,6 @@ C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservati
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.ManagerFeedback.resources
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.ManagerLogin.resources
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.ManagerManageRooms.resources
-C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.ManageSpecialOffers.resources
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.Payment.resources
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.Properties.Resources.resources
 C:\Users\santh\OneDrive\Desktop\pullstop\obj\Debug\net8.0-windows\HotelReservationsSystem.Reports.resources
